@@ -1,4 +1,4 @@
-#summary Basic Intro
+#summary Sample usage of the library
 
 = Introduction =
 
