@@ -1,0 +1,3 @@
+An Android library for viewing and decoding DICOM images.
+
+Part of work as presented in "[Mobile healthcare information management utilizing Cloud Computing and Android OS](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5628061&isnumber=5625939)", by C. Doukas, T. Pliakas, I. Maglogiannis. In Proc. of 2010 Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), vol., no., pp.1037-1040, Aug. 31 2010-Sept. 4 2010.
